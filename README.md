@@ -1,6 +1,13 @@
 # RBE3001_team17
 
 ## Leb 1: System Architecture and Joint Control
+- Understand the basics of the operating system, MATLAB, amd Git.
+- Understand the architecture and design of the robot arm.
+- Run test MATLAB code to validate the system.
+- Develop MATLAB scripts and functions to actuate the arm, record data to a file, and plot outputs.
+- Perform joint space control on the robot arm by sending/reading joint values of the robot arm.
+- Characterize the timing of the system.
+- Characterize joint-level motion trajectories
 
 ## Lab 2: Forward Kinematics
 - Formulate the forward kinematics of the robot arm using DH convention and parameters.
