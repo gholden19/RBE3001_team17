@@ -1,4 +1,4 @@
-# RBE3001 Team 17 Repository
+# RBE 301 Repository
 
 ## Leb 1: System Architecture and Joint Control
 - Understand the basics of the operating system, MATLAB, amd Git.
